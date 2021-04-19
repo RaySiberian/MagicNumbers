@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.MagicNumbers.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\Unity\MagicNumbers\.idea\.idea.MagicNumbers\.idea/dataSources/
+/dataSources.local.xml
